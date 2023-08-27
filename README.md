@@ -1,2 +1,2 @@
-# EduLanka-exampl
+# EduLanka-example
 EduLanka-example
